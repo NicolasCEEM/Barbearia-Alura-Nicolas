@@ -1,1 +1,7 @@
-body {background-color: violet;}
+body{font-size: 16px;
+text-align: center;
+background-color: gray;}
+
+.negrito{color: red;}
+
+.imagem{width: 100%;}
